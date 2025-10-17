@@ -2,6 +2,7 @@
 Cat Breeds App
 Overview
 Cat Breeds is an iOS app built using SwiftUI, Core Data, and Combine. It displays a list of cat breeds fetched from a remote API and allows users to mark their favorite breeds. The app includes:
+
 ●	Browse cat breeds in a grid layout (collection view style).
 
 ●	Search breeds by name.
@@ -17,9 +18,6 @@ Cat Breeds is an iOS app built using SwiftUI, Core Data, and Combine. It display
  
 Architecture
  
-
-
-
 1. SwiftUI Views
 ●	BreedsListView – Displays all breeds in a grid with a search bar. Each breed is presented as a card with an image, name, and favorite toggle.
 
