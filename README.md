@@ -163,4 +163,4 @@ Explanation:
 ●	Separation of Concerns: Views only display data, ViewModels handle logic, Repository handles persistence/network.
 
 ●	Unit Testing: Only ViewModel logic is tested, using in-memory Core Data stores. 
-<img width="442" height="423" alt="image" src="https://github.com/user-attachments/assets/17e2b0c1-8c7a-4d16-a6a3-0906af6b442f" />
+
